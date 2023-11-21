@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321443404296",
+    "firebase_url": "https://fir-databasepractice-af9bd-default-rtdb.firebaseio.com",
+    "project_id": "fir-databasepractice-af9bd",
+    "storage_bucket": "fir-databasepractice-af9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321443404296:android:d6d31fd5b4397e69084fbd",
+        "android_client_info": {
+          "package_name": "com.mhj.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321443404296-eljv95qt2unc6ggu82d4upn386jgkrso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Jae9mShVrvnoJEGID6x29_ljPmSDE3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321443404296-eljv95qt2unc6ggu82d4upn386jgkrso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
